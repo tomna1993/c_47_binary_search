@@ -1,4 +1,4 @@
-# c_45_linear_search
+# c_47_binary_search
 
 ## DESCRIPTION
 
